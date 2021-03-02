@@ -1,2 +1,2 @@
 # performance-tweaks
-performance-tweaks for Arch Linux and Garuda Linux.
+performance-tweaks for Garuda Linux.
